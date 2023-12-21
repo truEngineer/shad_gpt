@@ -1,8 +1,10 @@
 # SHAD GPT Week
 
-- LLM introduction
-- LLM pretraining
-- LLM data preparation
-- Measuring LLM quality
-- LLM Alignment
-- LLM inference acceleration
+Large Language Models (LLMs)
+
+- Introduction
+- Pretraining
+- Data preparation
+- Benchmarks
+- Alignment
+- Inference acceleration
