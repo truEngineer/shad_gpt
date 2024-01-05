@@ -8,3 +8,9 @@ Large Language Models (LLMs)
 - Benchmarks
 - Alignment
 - Inference acceleration
+
+## Homework
+
+Articles summarization 
+
+- [hw](https://github.com/truEngineer/shad_gpt/tree/main/hw)
