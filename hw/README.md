@@ -33,4 +33,4 @@
 
 ## Результат
 
-Средняя оценка открытой моделью `0.618`
+Средняя [оценка](https://github.com/truEngineer/shad_gpt/blob/main/hw/test_scores.txt) открытой моделью `0.618` (скрипт `calc_scores.py`)
