@@ -3,11 +3,11 @@ import json
 import requests
 
 
-with open('test_set_articles_jsonlines.json', 'r') as fin:
+with open('test_set_articles_jsonlines.json', 'r', encoding='utf-8') as fin:
     test_articles = [json.loads(s) for s in fin.readlines()]
 
 yagpt_result = []
-with open('yagpt_output_jsonlines.json', 'r', encoding='utf-8') as file:
+with open('test_set_summaries_jsonlines.json', 'r', encoding='utf-8') as file:
     json_data = re.sub(r"}\s*{", "},{", file.read())
     yagpt_result.extend(json.loads("[" + json_data + "]"))
 
