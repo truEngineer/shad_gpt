@@ -34,3 +34,5 @@
 ## Результат
 
 YaGPT prompt tuning: cредняя [оценка](https://github.com/truEngineer/shad_gpt/blob/main/hw/test_scores.txt) открытой моделью `0.618` (скрипт `calc_scores.py`)
+
+FRED-T5 large 820M [huggingface](https://huggingface.co/basic-go/FRED-T5-large-habr-summarizer): оценка открытой моделью `0.6075`
