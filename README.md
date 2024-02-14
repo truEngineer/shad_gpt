@@ -11,6 +11,4 @@ Large Language Models (LLMs)
 
 ## Homework
 
-Articles summarization 
-
-- [hw](https://github.com/truEngineer/shad_gpt/tree/main/hw)
+Articles summarization
